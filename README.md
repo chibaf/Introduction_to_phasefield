@@ -15,3 +15,7 @@ ISBN: 978-4-621-30888-2<br>
 このリポジトリに掲載されているプログラム/ソースコードの内容、使用方法に関する個別の相談ならびに質問にはお答え致しません。<br>
 The authors of the above book and the author's affiliations are not responsible of any loss or other detriments as a result of the contents in this repository.<br>
 The authors of the above book and the author's affiliations do not answer to your questions and comments to the contents in this repository.<br>
+
+
+## ref
+### installation of jupyter notebook https://jupyter.org/install
